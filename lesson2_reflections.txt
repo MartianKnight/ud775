@@ -8,4 +8,9 @@ There is a .git file created. It holds all of the version control history.
 The staging area is for commits. The working directory has files that are currently being modified or changed. The staging area allows you to see what you are about to save as your changes in your version control.
 
 
-3) 
+3) How can you use the staging area to make sure you have one commit per logical change?
+
+Use git diff to compare the code.
+
+
+4)
