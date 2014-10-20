@@ -1,0 +1,11 @@
+1) What happens when you initialize a repository? Why do you need it?
+
+There is a .git file created. It holds all of the version control history.
+
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is for commits. The working directory has files that are currently being modified or changed. The staging area allows you to see what you are about to save as your changes in your version control.
+
+
+3) 
