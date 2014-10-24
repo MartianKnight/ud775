@@ -16,3 +16,13 @@ Forks are for cloning repos on github with a reference to the orginal. Clones ar
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This allows you to merge at a later time if needed. You can also view the state of your files and the remote with diff.
+
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be harder to collaborate. The hard part would be passing your code around. I would have to send the files to someone or setup a file share. Editting would also be a pain. Nothing is easy without git.
+
+ 
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It is more viewable when you create changes on a separate branch for other github users. 
